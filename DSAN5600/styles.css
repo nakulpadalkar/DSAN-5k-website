@@ -1,0 +1,65 @@
+/* Basic Boxed CSS for Quarto Website */
+
+/* Body */
+body {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    color: #333;
+}
+
+/* Container */
+.container {
+    width: 80%;
+    margin: 0 auto;
+    overflow: hidden;
+    background: #ffffff;
+    padding: 2rem;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+/* Header */
+header {
+    background-color: #003366;
+    color: #ffffff;
+    padding: 1rem 2rem;
+}
+
+/* Navigation */
+nav {
+    background-color: #336699;
+    color: #ffffff;
+    padding: 1rem 2rem;
+}
+
+nav a {
+    color: #ffffff;
+    padding: 0 1rem;
+    text-decoration: none;
+}
+
+/* Main Content */
+main {
+    padding: 2rem;
+}
+
+/* Footer */
+footer {
+    background-color: #003366;
+    color: #ffffff;
+    padding: 1rem 2rem;
+    position: fixed;
+    width: 100%;
+    bottom: 0;
+}
+
+/* Complementary Colors */
+/* You can use these colors for other elements or text */
+.complementary-color1 {
+    color: #CC9999;
+}
+
+.complementary-color2 {
+    color: #99CC66;
+}
