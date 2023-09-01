@@ -1,0 +1,23 @@
+[
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "DSAN5000",
+    "section": "",
+    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
+  },
+  {
+    "objectID": "DsRQ.html",
+    "href": "DsRQ.html",
+    "title": "Data Science Research Questions",
+    "section": "",
+    "text": "Research Introduction\nFor the Machine Learning Course I want to create this protfolio. I am interested in exploring the impact of oil drilling on the environment specifically animal habitats in the Amazon."
+  }
+]

@@ -1,0 +1,7 @@
+---
+title: "Data Science Research Questions"
+---
+
+# Research Introduction
+
+For the Machine Learning Course I want to create this protfolio. I am interested in exploring the impact of oil drilling on the environment specifically animal habitats in the Amazon.
