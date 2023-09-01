@@ -1,1 +1,56 @@
 /* css styles */
+/* Basic CSS for Quarto Website */
+
+/* Body */
+body {
+    margin: 0;
+    padding: 0;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    background-color: #ffffff;
+    color: #333;
+}
+
+/* Header */
+header {
+    background-color: #003366;
+    color: #ffffff;
+    padding: 1rem;
+}
+
+/* Navigation */
+nav {
+    background-color: #336699;
+    color: #ffffff;
+    padding: 1rem;
+}
+
+nav a {
+    color: #ffffff;
+    padding: 0 1rem;
+    text-decoration: none;
+}
+
+/* Main Content */
+main {
+    padding: 2rem;
+}
+
+/* Footer */
+footer {
+    background-color: #003366;
+    color: #ffffff;
+    padding: 1rem;
+    position: fixed;
+    width: 100%;
+    bottom: 0;
+}
+
+/* Complementary Colors */
+/* You can use these colors for other elements or text */
+.complementary-color1 {
+    color: #CC9999;
+}
+
+.complementary-color2 {
+    color: #99CC66;
+}

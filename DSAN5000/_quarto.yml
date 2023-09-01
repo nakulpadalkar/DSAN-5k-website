@@ -4,11 +4,12 @@ project:
 website:
   title: "Nakul Padalkar's Portfolio Page"
   navbar:
-    left:
+    right:
       - href: index.qmd
         text: Home
       - about.qmd
       - DsRQ.qmd
+      - DataGathering.qmd
 
 format:
   html:
