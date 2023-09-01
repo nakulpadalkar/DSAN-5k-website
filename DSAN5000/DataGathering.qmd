@@ -2,3 +2,16 @@
 title: "Data Gathering"
 ---
 
+## Data Gathering
+
+I Like Iris flowers, so I went to the local botanical garden. I then collected 150 samples of Iris flowers, 50 of each species. I measured the length and width of the petals and sepals of each flower. I then recorded the data in a CSV file. This file is located in `data/iris.csv`.
+
+```{python}
+import pandas as pd
+import numpy as np
+import matplotlib.pyplot as plt
+import seaborn as sns
+
+iris = pd.read_csv('data/iris.csv')
+iris.head()
+```
